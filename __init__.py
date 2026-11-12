@@ -1,0 +1,1 @@
+"""UST Classroom Scheduler generators."""
